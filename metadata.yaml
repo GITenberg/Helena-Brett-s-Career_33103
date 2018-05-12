@@ -1,0 +1,29 @@
+_repo: Helena-Brett-s-Career_33103
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Coke, Desmond
+    alias: Blinders, Belinda
+    birthdate: 1879
+    deathdate: 1931
+    gutenberg_agent_id: '36205'
+    url: http://www.gutenberg.org/2009/agents/36205
+description: ''
+gutenberg_issued: '2010-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33103'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Authors -- Fiction'
+- !lcsh 'Authorship -- Fiction'
+- !lcsh 'Married people -- Fiction'
+title: Helena Brett's Career
+url: http://www.gutenberg.org/ebooks/33103
